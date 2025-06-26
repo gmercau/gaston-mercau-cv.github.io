@@ -14,3 +14,8 @@ jekyll-theme-cayman:
   header_theme: dark
   # Mostrar enlaces en el pie de página
   show_footer_links: true
+
+# Habilita la inclusión de CSS/JS
+plugins:
+  - jekyll-sass-converter
+  - jekyll-seo-tag
