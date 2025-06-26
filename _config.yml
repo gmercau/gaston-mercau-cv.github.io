@@ -1,4 +1,16 @@
-remote_theme: sproogen/resume-theme
-plugins:
-  - jekyll-remote-theme  # Necesario para temas externos
-  - jekyll-data
+# Configuración básica
+title: "Tu Nombre - Currículum Profesional"
+email: tu@email.com
+description: "Desarrollador Web con X años de experiencia"
+baseurl: "" 
+url: "https://tusuario.github.io"
+
+# Selección del tema (cambia 'minima' por el que prefieras)
+theme: jekyll-theme-cayman
+
+# Configuraciones específicas del tema (opcional)
+jekyll-theme-cayman:
+  # Color de cabecera (puede ser: default, dark, primary)
+  header_theme: dark
+  # Mostrar enlaces en el pie de página
+  show_footer_links: true
