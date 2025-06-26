@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: sproogen/resume-theme
 plugins:
+  - jekyll-remote-theme  # Necesario para temas externos
   - jekyll-data
-permalink: pretty
