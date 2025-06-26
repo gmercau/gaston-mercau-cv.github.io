@@ -1,0 +1,9 @@
+nombre: "María González"
+profesion: "Desarrolladora Full Stack"
+experiencia:
+  - puesto: "Ingeniera de Software"
+    empresa: "Tech Solutions"
+    periodo: "2020-Presente"
+    logros:
+      - "Lideré el equipo frontend"
+      - "Implementé arquitectura microservicios"
