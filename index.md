@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Currículum
+title: Gastón Mercaú - Currículum
 nav_order: 1
 ---
 
