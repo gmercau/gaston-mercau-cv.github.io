@@ -35,7 +35,7 @@ Julio 2022 – Actualidad
 - Desarrollo de nuevas funcionalidades en Rails.  
 - Integración con APIs REST y PostgreSQL.  
 - Trabajo en equipo con metodologías ágiles (Scrum).
-- Desarrollo de frontend con Rails, Haml y Bootstrap.
+- Desarrollo de frontend con Rails, Haml, Stimulus y Bootstrap.
 
 *Tecnologías:* Ruby on Rails, PostgreSQL.
 
