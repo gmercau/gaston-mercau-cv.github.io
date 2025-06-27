@@ -96,4 +96,4 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 
 ---
 
-© 2025 Gastón Mercaú
+© 2025 Gastón Mercaú.
