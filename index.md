@@ -15,7 +15,7 @@ title: "CV - Gastón Mercaú"
 
 ## 💬 Sobre mí
 
-Soy estudiante de la carrera Analista en Computación con experiencia como desarrollador web. Me especializo en el desarrollo de aplicaciones con Ruby on Rails, integrando tecnologías modernas del frontend y backend. Busco seguir creciendo profesionalmente en entornos que promuevan la innovación, la calidad y el trabajo en equipo.
+Soy estudiante de la carrera Analista en Computación con experiencia como desarrollador web. Me especializo en el desarrollo de aplicaciones con Ruby on Rails, React, Node.js, SQL integrando tecnologías modernas del frontend y backend. Busco seguir creciendo profesionalmente en entornos que promuevan la innovación, la calidad y el trabajo en equipo.
 
 ---
 
@@ -74,7 +74,7 @@ App web para crear, gestionar y visualizar rutinas de ejercicios.
 
 **Administración de Clientes**  
 Repositorio: [GitHub](https://github.com/gmercau)  
-App web para crear, gestionar clientes, pedidos, generación de planillas exel.
+App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - Autenticación con Devise 
 - Interfaz de usuario en React.
 - API REST Rails.
