@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CV - Gastón Mercau"
+title: "CV - Gastón Mercaú"
 ---
 
 # Gastón Mercau
