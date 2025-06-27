@@ -5,7 +5,7 @@ title: "CV - Gastón Mercaú"
 
 # Gastón Mercau
 
-📍 Argentina  
+📍 Río Cuarto, Córdoba, Argentina  
 🎓 Estudiante de Analista en Computación  
 💻 Desarrollador Web en actividad  
 
@@ -22,8 +22,8 @@ Soy estudiante de la carrera Analista en Computación con experiencia como desar
 ## 🎓 Educación
 
 **Analista en Computación**  
-*Universidad Nacional de ...*  
-2022 – Actualidad
+*Universidad Nacional de Río Cuarto*  
+En curso
 
 ---
 
@@ -43,11 +43,11 @@ Marzo 2023 – Actualidad
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** Ruby, JavaScript (ES6), SQL  
-- **Frameworks:** Ruby on Rails, React, Bootstrap  
-- **Bases de datos:** PostgreSQL, SQLite  
+- **Frontend:** JavaScript (ES6+), Rails, React.  
+- **Backend:** Ruby on Rails, Node.js  
+- **Bases de datos:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)   
 - **Herramientas:** Git, GitHub, Docker, Linux  
-- **Otros:** Redis, Active Storage, Sidekiq
+- **Otros:** Redis, Active Storage, Metodologías Ágiles (Scrum, Kanban)
 
 ---
 
