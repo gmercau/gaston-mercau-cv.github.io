@@ -30,24 +30,23 @@ En curso
 ## 💼 Experiencia Laboral
 
 **Desarrollador Web JR**  
-*Ditec*  
-Marzo 2022 – Actualidad  
+*Devias*  
+Julio 2022 – Actualidad  
 - Desarrollo de nuevas funcionalidades en Rails 7.  
 - Integración con APIs REST y PostgreSQL.  
 - Trabajo en equipo con metodologías ágiles (Scrum).  
-- Desarrollo de frontend con React y Bootstrap.
 
-*Tecnologías:* Ruby on Rails, PostgreSQL, Redis, React, Docker.
+*Tecnologías:* Ruby on Rails, PostgreSQL.
 
 **Desarrollador Web JR**  
 *Toptive*  
 Enero 2020 – Diciembre 2021  
-- Desarrollo de nuevas funcionalidades en Rails 7.  
-- Integración con APIs REST y PostgreSQL.  
+- Desarrollo de nuevas funcionalidades en React.  
+- Integración con APIs REST y MongoDB.  
 - Trabajo en equipo con metodologías ágiles (Scrum).  
 - Desarrollo de frontend con React y Bootstrap.
 
-*Tecnologías:* Ruby on Rails, PostgreSQL, Redis, React, Docker.
+*Tecnologías:* React, Node.js.
 
 ---
 
