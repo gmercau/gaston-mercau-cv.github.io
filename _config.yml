@@ -1,9 +1,9 @@
 # Configuración básica
-title: "Tu Nombre - Currículum Profesional"
-email: tu@email.com
+title: "Gastón Mercaú - Currículum Profesional"
+email: grmercau@gmail.com
 description: "Desarrollador Web con X años de experiencia"
 baseurl: "" 
-url: "https://tusuario.github.io"
+url: "https://gmercau.github.io"
 
 # Selección del tema (cambia 'minima' por el que prefieras)
 theme: jekyll-theme-cayman

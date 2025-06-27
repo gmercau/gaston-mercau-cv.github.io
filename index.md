@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mi Currículum
+title: Currículum
 nav_order: 1
 ---
 
-# [Tu Nombre](https://tusuario.github.io)
+# [Gastón Mercaú](https://gmercau.github.io)
 
-[✉️ tu@email.com](mailto:tu@email.com) | [🔗 linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil) | [💻 github.com/tusuario](https://github.com/tusuario)
+[✉️ grmercau@gmail.com](mailto:grmercau@gmail.com) | [🔗 linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil) | [💻 github.com/gmercau](https://github.com/gmercau)
 
 ## 👨‍💻 Experiencia Profesional
 
