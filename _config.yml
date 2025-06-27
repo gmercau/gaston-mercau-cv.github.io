@@ -13,7 +13,7 @@ jekyll-theme-cayman:
   # Color de cabecera (puede ser: default, dark, primary)
   header_theme: dark
   # Mostrar enlaces en el pie de página
-  show_footer_links: true
+  show_footer_links: false
 
 # Habilita la inclusión de CSS/JS
 plugins:
