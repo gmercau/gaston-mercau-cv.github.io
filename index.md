@@ -75,10 +75,10 @@ Back-end en Rails con endpoints JSON para tareas, usuarios y sesiones.
 
 ## 📫 Contacto
 
-- ✉️ Email: [gaston@email.com](mailto:gaston@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/gastonmercau](https://linkedin.com/in/gastonmercau)  
-- 🖥️ GitHub: [github.com/gastonmercau](https://github.com/gastonmercau)
+- ✉️ Email: [grmercau@email.com](mailto:grmercau@email.com)  
+- 💼 LinkedIn: [linkedin.com/in/gastonmercau](www.linkedin.com/in/gaston-mercau-724b2841)  
+- 🖥️ GitHub: [github.com/gmercau](https://github.com/gmercau)
 
 ---
 
-© 2025 Gastón Mercau
+© 2025 Gastón Mercaú
