@@ -1,32 +1,84 @@
 ---
 layout: default
-title: Gastón Mercaú - Currículum
-nav_order: 1
+title: "CV - Gastón Mercau"
 ---
 
-# Gastón Mercaú
+# Gastón Mercau
 
-[✉️ grmercau@gmail.com](mailto:grmercau@gmail.com) | [🔗 linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil) | [💻 github.com/gmercau](https://github.com/gmercau)
+📍 Argentina  
+🎓 Estudiante de Analista en Computación  
+💻 Desarrollador Web en actividad  
 
-## 👨‍💻 Experiencia Profesional
+[![Descargar CV en PDF](https://img.shields.io/badge/📄%20Descargar%20CV-PDF-blue)](assets/gaston-mercau-cv.pdf)
 
-### **Desarrollador Frontend** - Empresa Tecnológica
-*Enero 2020 - Presente*  
-- Desarrollo de aplicaciones con React.js y TypeScript
-- Implementación de pruebas unitarias con Jest
-- Colaboración en equipo usando metodologías Agile
+---
 
-### **Practicante de Desarrollo** - Otra Empresa
-*Julio 2018 - Diciembre 2019*  
-- Soporte en el desarrollo de sitios web con WordPress
-- Mantenimiento de bases de datos MySQL
+## 💬 Sobre mí
+
+Soy estudiante de la carrera Analista en Computación con experiencia como desarrollador web. Me especializo en el desarrollo de aplicaciones con Ruby on Rails, integrando tecnologías modernas del frontend y backend. Busco seguir creciendo profesionalmente en entornos que promuevan la innovación, la calidad y el trabajo en equipo.
+
+---
 
 ## 🎓 Educación
 
-### **Licenciatura en Ciencias de la Computación**
-Universidad Nacional, 2014-2018
+**Analista en Computación**  
+*Universidad Nacional de ...*  
+2022 – Actualidad
 
-## 🛠 Habilidades Técnicas
-- **Lenguajes**: JavaScript, Python, HTML/CSS
-- **Frameworks**: React, Node.js, Django
-- **Herramientas**: Git, Docker, Webpack
+---
+
+## 💼 Experiencia Laboral
+
+**Desarrollador Web JR**  
+*Software Studio*  
+Marzo 2023 – Actualidad  
+- Desarrollo de nuevas funcionalidades en Rails 7.  
+- Integración con APIs REST y PostgreSQL.  
+- Trabajo en equipo con metodologías ágiles (Scrum).  
+- Desarrollo de frontend con React y Bootstrap.
+
+*Tecnologías:* Ruby on Rails, PostgreSQL, Redis, React, Docker.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** Ruby, JavaScript (ES6), SQL  
+- **Frameworks:** Ruby on Rails, React, Bootstrap  
+- **Bases de datos:** PostgreSQL, SQLite  
+- **Herramientas:** Git, GitHub, Docker, Linux  
+- **Otros:** Redis, Active Storage, Sidekiq
+
+---
+
+## 📂 Proyectos
+
+**Generador de Rutinas Personalizadas**  
+Repositorio: [GitHub](https://github.com/usuario/rutinas-app)  
+App web para crear y visualizar planes de ejercicios.  
+- Videos cortos en Active Storage  
+- Modelo de datos jerárquico: días > etapas > ejercicios  
+- Autenticación con Devise  
+
+**Gestor de Tareas con API REST**  
+Repositorio: [GitHub](https://github.com/usuario/gestor-api)  
+Back-end en Rails con endpoints JSON para tareas, usuarios y sesiones.
+
+---
+
+## 🗣️ Idiomas
+
+- Español: Nativo  
+- Inglés: Intermedio (lectura técnica, documentación, comunicación escrita)
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email: [gaston@email.com](mailto:gaston@email.com)  
+- 💼 LinkedIn: [linkedin.com/in/gastonmercau](https://linkedin.com/in/gastonmercau)  
+- 🖥️ GitHub: [github.com/gastonmercau](https://github.com/gastonmercau)
+
+---
+
+© 2025 Gastón Mercau
