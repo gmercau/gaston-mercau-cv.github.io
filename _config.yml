@@ -5,12 +5,12 @@ description: "Desarrollador Web"
 baseurl: "" 
 url: "https://gmercau.github.io"
 
-# Selección del tema (cambia 'minima' por el que prefieras)
+# Selección del tema 
 theme: jekyll-theme-cayman
 
-# Configuraciones específicas del tema (opcional)
+# Configuraciones específicas del tema 
 jekyll-theme-cayman:
-  # Color de cabecera (puede ser: default, dark, primary)
+  # Color de cabecera 
   header_theme: dark
   # Mostrar enlaces en el pie de página
   show_footer_links: false
