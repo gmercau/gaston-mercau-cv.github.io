@@ -32,9 +32,10 @@ En curso
 **Desarrollador Web JR**  
 *Devias*  
 Julio 2022 – Actualidad  
-- Desarrollo de nuevas funcionalidades en Rails 7.  
+- Desarrollo de nuevas funcionalidades en Rails.  
 - Integración con APIs REST y PostgreSQL.  
-- Trabajo en equipo con metodologías ágiles (Scrum).  
+- Trabajo en equipo con metodologías ágiles (Scrum).
+- Desarrollo de frontend con Rails, Haml y Bootstrap.
 
 *Tecnologías:* Ruby on Rails, PostgreSQL.
 
@@ -62,17 +63,22 @@ Enero 2020 – Diciembre 2021
 
 ## 📂 Proyectos
 
-**Generador de Rutinas Personalizadas**  
-Repositorio: [GitHub](https://github.com/usuario/rutinas-app)  
-App web para crear y visualizar planes de ejercicios.  
+**Rutinas para gimnasio**  
+Repositorio: [GitHub](https://github.com/sebastianpanotto/panotto-fitness)  
+App web para crear, gestionar y visualizar rutinas de ejercicios.  
 - Videos cortos en Active Storage  
-- Modelo de datos jerárquico: días > etapas > ejercicios  
-- Autenticación con Devise  
+- Modelo de datos jerárquico: planes > días > etapas > ejercicios  
+- Autenticación con Devise 
+- API REST Rails.
+- Interfaz de cliente en React, dashboard para admin en Rails. Todo integrado dentro del mismo proyecto. 
 
-**Gestor de Tareas con API REST**  
-Repositorio: [GitHub](https://github.com/usuario/gestor-api)  
-Back-end en Rails con endpoints JSON para tareas, usuarios y sesiones.
-
+**Administración de Clientes**  
+Repositorio: [GitHub](https://github.com/gmercau)  
+App web para crear, gestionar clientes, pedidos, generación de planillas exel.
+- Autenticación con Devise 
+- Interfaz de usuario en React.
+- API REST Rails.
+- Frontend y backend integrados en el mismo proyecto.
 ---
 
 ## 🗣️ Idiomas
