@@ -4,7 +4,7 @@ title: Currículum
 nav_order: 1
 ---
 
-# [Gastón Mercaú](https://gmercau.github.io)
+# Gastón Mercaú
 
 [✉️ grmercau@gmail.com](mailto:grmercau@gmail.com) | [🔗 linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil) | [💻 github.com/gmercau](https://github.com/gmercau)
 
