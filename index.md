@@ -3,7 +3,7 @@ layout: default
 title: "CV - Gastón Mercaú"
 ---
 
-# Gastón Mercau
+# Gastón Mercaú
 
 📍 Río Cuarto, Córdoba, Argentina  
 🎓 Estudiante de Analista en Computación  
