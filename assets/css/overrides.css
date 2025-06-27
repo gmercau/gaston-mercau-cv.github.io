@@ -1,0 +1,13 @@
+/* Limita el ancho máximo y centra */
+.main-content {
+  max-width: 800px; /* Ajusta este valor según necesites */
+  margin: 0 auto;
+  padding: 2rem 4rem; /* Más espacio en los lados en móviles */
+}
+
+/* Para pantallas pequeñas */
+@media screen and (max-width: 600px) {
+  .main-content {
+    padding: 1rem 2rem;
+  }
+}
