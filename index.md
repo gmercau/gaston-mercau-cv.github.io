@@ -1,32 +1,24 @@
----
-layout: default
-title: Mi Currículum
-nav_order: 1
----
+╔══════════════════════════════════════════╗
+║  MARÍA GONZÁLEZ                          ║
+║  Desarrolladora Full Stack               ║
+╚══════════════════════════════════════════╝
 
-# [Tu Nombre](https://tusuario.github.io)
+[✉️] maria@ejemplo.com  [🌐] mariag.dev  [🐱] github.com/mariag
 
-[✉️ tu@email.com](mailto:tu@email.com) | [🔗 linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil) | [💻 github.com/tusuario](https://github.com/tusuario)
+🌟 EXPERIENCIA PROFESIONAL
 
-## 👨‍💻 Experiencia Profesional
+💼 Tech Solutions SA | 2021-Presente
+• Lideré equipo de 5 desarrolladores
+• Reduje tiempo de carga en 40%
 
-### **Desarrollador Frontend** - Empresa Tecnológica
-*Enero 2020 - Presente*  
-- Desarrollo de aplicaciones con React.js y TypeScript
-- Implementación de pruebas unitarias con Jest
-- Colaboración en equipo usando metodologías Agile
+🎓 EDUCACIÓN
 
-### **Practicante de Desarrollo** - Otra Empresa
-*Julio 2018 - Diciembre 2019*  
-- Soporte en el desarrollo de sitios web con WordPress
-- Mantenimiento de bases de datos MySQL
+🏛 Universidad Nacional
+Ingeniería en Sistemas (2016-2020)
 
-## 🎓 Educación
-
-### **Licenciatura en Ciencias de la Computación**
-Universidad Nacional, 2014-2018
-
-## 🛠 Habilidades Técnicas
-- **Lenguajes**: JavaScript, Python, HTML/CSS
-- **Frameworks**: React, Node.js, Django
-- **Herramientas**: Git, Docker, Webpack
+🛠 HABILIDADES PRINCIPALES
+┌──────────────┬──────────────┐
+│ Frontend     │ React, Vue   │
+│ Backend      │ Node, Django │
+│ DevOps       │ Docker, AWS  │
+└──────────────┴──────────────┘
