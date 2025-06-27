@@ -9,7 +9,9 @@ title: "CV - Gastón Mercaú"
 🎓 Estudiante de Analista en Computación  
 💻 Desarrollador Web en actividad  
 
-[![Descargar CV en PDF](https://img.shields.io/badge/📄%20Descargar%20CV-PDF-blue)](assets/gaston-mercau-cv.pdf)
+<a href="assets/gaston-mercau-cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Descargar%20CV-PDF-blue" alt="Descargar CV en PDF">
+</a>
 
 ---
 
@@ -91,10 +93,12 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 
 ## 📫 Contacto
 
-- ✉️ Email: [grmercau@email.com](mailto:grmercau@email.com)  
-- 💼 LinkedIn: [linkedin-gaston-mercau](https://www.linkedin.com/in/gaston-mercau-724b2841)  
-- 🖥️ GitHub: [github-gaston-mercau](https://github.com/gmercau)
+- ✉️ Email: <a href="mailto:grmercau@gmail.com" target="_blank">grmercau@gmail.com</a> 
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/gaston-mercau-724b2841" target="_blank">www.linkedin.com/gaston-mercau</a>
+
+- 🖥️ GitHub: <a href="https://github.com/gmercau" target="_blank">github.com/gmercau</a>  
 
 ---
 
 © 2025 Gastón Mercaú.
+
