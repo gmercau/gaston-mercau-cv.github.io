@@ -79,6 +79,7 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - Interfaz de usuario en React.
 - API REST Rails.
 - Frontend y backend integrados en el mismo proyecto.
+
 ---
 
 ## 🗣️ Idiomas
