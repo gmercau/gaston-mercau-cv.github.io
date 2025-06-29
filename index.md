@@ -95,7 +95,11 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - ✉️ Email: <a href="mailto:grmercau@gmail.com" target="_blank">grmercau@gmail.com</a> 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/gaston-mercau-724b2841" target="_blank">www.linkedin.com/gaston-mercau</a>
 - 🖥️ GitHub: <a href="https://github.com/gmercau" target="_blank">github.com/gmercau</a>  
+
 - <a href="https://www.linkedin.com/in/gaston-mercau-724b2841">linkedin</a>
+- ✉️ Email: [grmercau@gmail.com](mailto:grmercau@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/gaston-mercau](https://www.linkedin.com/in/gaston-mercau-724b2841)
+- 🖥️ GitHub: [github.com/gmercau](https://github.com/gmercau)
 
 ---
 
