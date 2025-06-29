@@ -25,7 +25,7 @@ Soy estudiante de la carrera Analista en Computación con experiencia como desar
 
 **Analista en Computación**  
 *Universidad Nacional de Río Cuarto*  
-En curso
+En curso - Graduación estimada: Diciembre 2026
 
 ---
 
@@ -34,28 +34,27 @@ En curso
 **Desarrollador Web JR**  
 *Devias*  
 Julio 2022 – Actualidad  
-- Desarrollo de nuevas funcionalidades en Rails.  
-- Integración con APIs REST y PostgreSQL.  
-- Trabajo en equipo con metodologías ágiles (Scrum).
-- Desarrollo de frontend con Rails, Haml, Stimulus y Bootstrap.
+- Contribuí al desarrollo y lanzamiento en Rails de modulos de petición de compra, facturación, envío de emails automático, generación de reportes, etc que permitieron agregar funcionalidades para el usuario.
+- Implementé integraciones de diferentes módulos con APIs REST y PostgreSQL.  
+- Implementé integraciones con APIs de Quickbooks, Hubspot.  
+- Trabajé en equipo con metodologías ágiles (Scrum).
 
-*Tecnologías:* Ruby on Rails, PostgreSQL.
+*Tecnologías:* Ruby on Rails, PostgreSQL, Haml, jQuery, Bootstrap.
 
 **Desarrollador Web JR**  
 *Toptive*  
 Enero 2020 – Diciembre 2021  
-- Desarrollo de nuevas funcionalidades en React.  
-- Integración con APIs REST y MongoDB.  
-- Trabajo en equipo con metodologías ágiles (Scrum).  
-- Desarrollo de frontend con React y Bootstrap.
+- Desarrollé nuevas funcionalidades en React para autenticación de usuarios, listas de productos sumando imágenes, puntuaciones, carritos de compras, etc.  
+- Realicé Integraciones con APIs REST y MongoDB.  
+- Trabajé en equipo con metodologías ágiles (Scrum).  
 
-*Tecnologías:* React, Node.js.
+*Tecnologías:* React, Redux, Node.js, Bootstrap, MongoDB.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-- **Frontend:** HTML5, CSS, JavaScript, Rails, React.  
+- **Frontend:** HTML5, CSS, JavaScript, Bootstrap, Rails, React. 
 - **Backend:** Ruby on Rails, Node.js.  
 - **Bases de datos:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB).   
 - **Herramientas:** Git, GitHub, Docker, Linux.  
